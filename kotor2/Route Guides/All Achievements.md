@@ -156,6 +156,7 @@ Feats don't really make a difference, we just pick whats best for combat as well
 For the 'I am a Jedi' Achievement we need to pick 21 specific Powers:<br>
 - Heal Chain: Heal -> Improved Heal -> Master Heal
 - Force Aura Chain: Force Aura -> Force Shield -> Force Armor
+- Force Valor Chain: Force Valor → Knight Valor → Master Valor
 - Force Barrier Chain: Force Barrier → Improved Force Barrier → Master Force Barrier
 - Revitalize Chain: Revitalize → Improved Revitalize → Master Revitalize
 - Stun Chain: Stun → Stasis → Stasis Field
