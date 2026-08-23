@@ -180,14 +180,14 @@ At Level 22, we should be able to learn Moving Meditation from T3.
 | Level | Feats | Powers |
 | :---: | :--- | :--- |
 | 1 | Master Flurry | Heal |
-| 2 | ** | Revitalize |
+| 2 | --- | Revitalize |
 | 3 | ** | Stasis Field |
-| 4 | ** | Improved Revitalize |
+| 4 | --- | Improved Revitalize |
 | 5 | ** | Improved Heal |
-| 6 | ** | Force Armor |
+| 6 | --- | Force Armor |
 | 7 | ** | Master Heal |
-| 8 | ** | Master Revitalize |
-| 9-15 | ** |
+| 8 | --- | Master Revitalize |
+| 9-15 | ** | ** |
 
 
 	Powers
