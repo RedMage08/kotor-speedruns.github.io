@@ -153,16 +153,16 @@ At Level 22, we should be able to learn Moving Meditation from T3.
 
 #### Feats and Powers
 Feats don't really make a difference, we just pick whats best for combat as well as some Class Skill feats to help out with some Achievements.
-For the 'I am a Jedi' Achievement we need to pick 21 specific Powers:
-Heal Chain: Heal -> Improved Heal -> Master Heal
-Force Aura Chain: Force Aura -> Force Shield -> Force Armor
-Force Barrier Chain: Force Barrier → Improved Force Barrier → Master Force Barrier
-Revitalize Chain: Revitalize → Improved Revitalize → Master Revitalize
-Stun Chain: Stun → Stasis → Stasis Field
-Stun Droid Chain: Stun Droid → Disable Droid → Destroy Droid
-
-Story Power: Force Enlightenment (automatically unlocked after dealing with the Jedi Masters on Dantooine as a strict Light Side alignment)
-Since FE is given as part of the story I don't count it towards the achievement, but it may not unlock before receiving it.
+For the 'I am a Jedi' Achievement we need to pick 21 specific Powers:<br>
+- Heal Chain: Heal -> Improved Heal -> Master Heal
+- Force Aura Chain: Force Aura -> Force Shield -> Force Armor
+- Force Barrier Chain: Force Barrier → Improved Force Barrier → Master Force Barrier
+- Revitalize Chain: Revitalize → Improved Revitalize → Master Revitalize
+- Stun Chain: Stun → Stasis → Stasis Field
+- Stun Droid Chain: Stun Droid → Disable Droid → Destroy Droid
+<br>
+- Story Power: Force Enlightenment (automatically unlocked after dealing with the Jedi Masters on Dantooine as a strict Light Side alignment)<br>
+Since FE is given as part of the story I don't count it towards the achievement, but it may not unlock before receiving it.<br>
 So long as the following is followed you will not miss a power and will have the strongest Jedi for the Lightside portion.
   - *`*` Indicates Powers that are not required for the 'I am a Jedi' Achievement.*
   - *`**` Recommended or Player Choice.*
