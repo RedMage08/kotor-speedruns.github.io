@@ -155,6 +155,7 @@ At Level 22, we should be able to learn Moving Meditation from T3.
   - *`*` - Powers that are not required for 'I am a Jedi' Achievement.*
   - 
 **Jedi Guardian**
+
 | Level | Feats | Powers |
 | --- | :--- | :--- |
 | 1 | Weapon Focus: Melee | --- |
@@ -174,6 +175,7 @@ At Level 22, we should be able to learn Moving Meditation from T3.
 | 15 | Master Two-Weapon Fighting | Master Speed`*` |
 
 **Jedi Weapon Master**
+
 | Level | Feats | Powers |
 | --- | :--- | :--- |
 | 1 | Master Flurry | Master Valor |
