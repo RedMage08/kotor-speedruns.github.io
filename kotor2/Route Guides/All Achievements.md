@@ -165,27 +165,27 @@ For the 'I am a Jedi' Achievement we need to pick 21 specific Powers:<br>
 - Story Power: Force Enlightenment (automatically unlocked after dealing with the Jedi Masters on Dantooine as a strict Light Side alignment)<br>
 Since FE is given as part of the story I don't count it towards the achievement, but it may not unlock before receiving it.<br>
 So long as the following is followed you will not miss a power and will have the strongest Jedi for the Lightside portion.
-  - *`*` Indicates Powers that are not required for the 'I am a Jedi' Achievement.*
-  - *`**` Recommended or Player Choice.*
+- *`*` Indicates Powers that are not required for the 'I am a Jedi' Achievement.*
+- *`**` Recommended or Player Choice.*
 **Jedi Guardian**
 
 | Level | Feats | Powers |
 | :---: | :--- | :--- |
 | 1 | Weapon Focus: Melee | --- |
-| 2 | Two-Weapon Fighting | Burst of Speed`*` |
-| 3 | Toughness | Affect Mind`*` + Force Valor |
+| 2 | Two-Weapon Fighting | Burst of Speed* |
+| 3 | Toughness | Affect Mind* + Force Valor |
 | 4 | --- | Stun |
 | 5 | Class Skill: Computer Use | Stun Droid |
-| 6 | --- | Disable Droid + Force Deflection`*` |
-| 7 | Improved Two-Weapon Fighting | Dominate Mind`*` |
+| 6 | --- | Disable Droid + Force Deflection* |
+| 7 | Improved Two-Weapon Fighting | Dominate Mind* |
 | 8 | --- | Force Barrier |
-| 9 | Improved Flurry | Knight Speed`*` + Knight Valor |
+| 9 | Improved Flurry | Knight Speed* + Knight Valor |
 | 10 | --- | Force Aura |
 | 11 | Class Skill: Repair | Improved Force Barrier |
 | 12 | --- | Force Shield + Stasis |
-| 13 | Weapon Focus: Lightsaber | Force Redirection`*` |
+| 13 | Weapon Focus: Lightsaber | Force Redirection* |
 | 14 | --- | Destroy Droid |
-| 15 | Master Two-Weapon Fighting | Master Speed`*` + Master Valor |
+| 15 | Master Two-Weapon Fighting | Master Speed* + Master Valor |
 
 <br>
 **Jedi Weapon Master**
