@@ -98,28 +98,23 @@ Persuade - Required to reach 30.
 Repair - Required to reach 21.
 Treat Injury - Required to reach 30%
 
-We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsaber; we pick it over 'Two-Weapon Fighting' since this feat takes longer to select and character creation isn't timed. This will in turn result in our first level up being faster than if we chose 'Two-Weapon Fighting' now. 
+We choose 'Weapon Focus: Melee' for the attack boost before getting our lightsaber; we pick it over 'Two-Weapon Fighting' since this feat takes longer to select and character creation isn't timed. This will in turn result in our first level up being faster than if we chose 'Two-Weapon Fighting' now. <br>
 
 ### Leveling Plan
-#### Attributes
-<br>
+### Attributes
 Our MC needs 15 Intelligence for an achievement involving T3-M4, but, it's better off for us not to start at 15, so we allocate points as follows:
 	
-| Level | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
-| --- | --- | --- | --- | --- | --- | --- | 
-| 1: | 15 | 14 | 13 | 14 | 11 | 10 |
-| 4: | 16 | --- | 13 | 14 | --- | --- |
-| 8: | 16 | --- | 14 | 14 | --- | --- |
-| 12: | 16 | --- | --- | 15 | --- | --- |
-| 16: | 17 | --- | --- | --- | --- | --- |
-| 20: | 18 | --- | --- | --- | --- | --- |
-| 24: | 19 | --- | --- | --- | --- | --- |
-| 28: | 20 | --- | --- | --- | --- | --- |
+| Level | Attribute |
+| :---: | :--- |
+| 4: | Strength to 16 |
+| 8: | Constitution to 14 |
+| 12: | Intelligence to 15 |
+| 16-28: | Strength +1 |
 
 <br>
-Levels 16, 20, 24 and 28 will just choose Recommended for Attributes.
+Levels 16, 20, 24 and 28 will just choose Recommended for Attributes.<br>
 
-#### Skills
+### Skills
 The skill layout in the following table is quite strict in this first run, Computer Use and Repair max out at 15 and 21 for an achievement with T3-M4, the remaining two *need* to reach 30 points for 2 other achievements.
 Our party members will be required to hit 30 points in some other skills, this will be followed up on in the Achievement Plan.
 
@@ -149,9 +144,9 @@ Our party members will be required to hit 30 points in some other skills, this w
 | 22-30 | Persuade and TI to 30 |
 
 Once we hit Level 12 we will be able to do our first run of influence gaining with T3-M4 in our process of learning Moving Meditation. ('Lost in you work' Achievement)
-At Level 22, we should be able to learn Moving Meditation from T3.
+At Level 22, we should be able to learn Moving Meditation from T3.<br>
 
-#### Feats and Powers
+### Feats and Powers
 Feats don't really make a difference, we just pick whats best for combat as well as some Class Skill feats to help out with some Achievements.
 For the 'I am a Jedi' Achievement we need to pick 21 specific Powers:<br>
 - Heal Chain: Heal -> Improved Heal -> Master Heal
@@ -166,7 +161,7 @@ For the 'I am a Jedi' Achievement we need to pick 21 specific Powers:<br>
 Since FE is given as part of the story I don't count it towards the achievement, but it may not unlock before receiving it.<br>
 So long as the following is followed you will not miss a power and will have the strongest Jedi for the Lightside portion.
 - *`*` Indicates Powers that are not required for the 'I am a Jedi' Achievement.*
-- *`**` Recommended or Player Choice.*
+- *`**` Recommended or Player Choice.*<br>
 **Jedi Guardian**
 
 | Level | Feats | Powers |
@@ -202,6 +197,7 @@ So long as the following is followed you will not miss a power and will have the
 | 8 | --- | Master Revitalize |
 | 9-15 | ** | ** |
 
+<br>
 ## Equipment Plan
 One of the many special differences KOTOR 2 has compared to KOTOR 1 is that many of the drops/containers you loot are randomized. The base items listed below are all guaranteed items, but it is possible you may obtain items in your run that are more optimal to equip before getting the guaranteed items (or could possibly be better!).
 
