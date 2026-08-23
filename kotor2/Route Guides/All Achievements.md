@@ -125,7 +125,7 @@ Our party members will be required to hit 30 points in some other skills, this w
 
 | Level | Skills |
 | :---: | --- |
-| 1: | Comp Use 2, Persuade 4, TI 4 | |
+| 1: | Comp Use 2, Persuade 4, TI 4 |
 | 2: | Persuade + TI 5 |
 | 3: | Persuade + TI 6 |
 | 4: | Persuade + TI 7 |
