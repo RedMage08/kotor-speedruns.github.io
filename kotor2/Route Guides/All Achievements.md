@@ -152,6 +152,18 @@ Once we hit Level 12 we will be able to do our first run of influence gaining wi
 At Level 22, we should be able to learn Moving Meditation from T3.
 
 #### Feats and Powers
+Feats don't really make a difference, we just pick whats best for combat as well as some Class Skill feats to help out with some Achievements.
+For the 'I am a Jedi' Achievement we need to pick 21 specific Powers:
+Heal Chain: Heal -> Improved Heal -> Master Heal
+Force Aura Chain: Force Aura -> Force Shield -> Force Armor
+Force Barrier Chain: Force Barrier → Improved Force Barrier → Master Force Barrier
+Revitalize Chain: Revitalize → Improved Revitalize → Master Revitalize
+Stun Chain: Stun → Stasis → Stasis Field
+Stun Droid Chain: Stun Droid → Disable Droid → Destroy Droid
+
+Story Power: Force Enlightenment (automatically unlocked after dealing with the Jedi Masters on Dantooine as a strict Light Side alignment)
+Since FE is given as part of the story I don't count it towards the achievement, but it may not unlock before receiving it.
+So long as the following is followed you will not miss a power and will have the strongest Jedi for the Lightside portion.
   - *`*` Indicates Powers that are not required for the 'I am a Jedi' Achievement.*
   - *`**` Recommended or Player Choice.*
 **Jedi Guardian**
@@ -188,41 +200,6 @@ At Level 22, we should be able to learn Moving Meditation from T3.
 | 7 | ** | Master Heal |
 | 8 | --- | Master Revitalize |
 | 9-15 | ** | ** |
-
-
-	Powers
-
-	2: 	Burst of Speed - 1
-	3: 	Affect Mind - 1
-	4: 	Valor 1
-	5: 	Stun Droid 1
-	6: 	Disable Droid 6
-	7: 	Stun 1
-	8: 	Force Deflection - 6
-	9:	Knight Speed - 9
-	10: 	Knight Valor 9
-	11: 	Dominate Mind - 6
-	12: 	Stasis 12
-	13: 	Force Redirection - 12
-	14: 	Destroy Droid 12
-	15: 	Master Speed - 15
-
-	Prestige: Weapon Master
-    1: Master Valor 15
-	2: Stasis Field 15
-	3: Heal 6
-	4: Imp Heal 12
-	5: Master Heal 18
-	6: Aura 1
-	7: Shield 6
-	8: Armor 12
-	9: Barrier 6
-	10: Imp Barrier 9
-	11: Master Barrier 15
-	12: Revit 9
-	13: Imp Revit 15
-	14: Master Revit 21
-	15: Recommended
 
 ## Equipment Plan
 One of the many special differences KOTOR 2 has compared to KOTOR 1 is that many of the drops/containers you loot are randomized. The base items listed below are all guaranteed items, but it is possible you may obtain items in your run that are more optimal to equip before getting the guaranteed items (or could possibly be better!).
