@@ -152,47 +152,77 @@ Once we hit Level 12 we will be able to do our first run of influence gaining wi
 At Level 22, we should be able to learn Moving Meditation from T3.
 
 #### Feats and Powers
-  - *`*` - Powers that are not required for 'I am a Jedi' Achievement.*
-  - 
+  - *`*` Indicates Powers that are not required for the 'I am a Jedi' Achievement.*
+  - *`**` Recommended or Player Choice.*
 **Jedi Guardian**
 
 | Level | Feats | Powers |
-| --- | :--- | :--- |
+| :---: | :--- | :--- |
 | 1 | Weapon Focus: Melee | --- |
 | 2 | Two-Weapon Fighting | Burst of Speed`*` |
-| 3 | Toughness | Affect Mind`*` |
-| 4 | --- | Force Valor |
+| 3 | Toughness | Affect Mind`*` + Force Valor |
+| 4 | --- | Stun |
 | 5 | Class Skill: Computer Use | Stun Droid |
-| 6 | --- | Disable Droid |
-| 7 | Improved Two-Weapon Fighting | Stun |
-| 8 | --- | Force Deflection`*` |
-| 9 | Improved Flurry | Knight Speed`*` |
-| 10 | --- | Knight Valor |
-| 11 | Class Skill: Repair | Dominate Mind`*` |
-| 12 | --- | Stasis |
+| 6 | --- | Disable Droid + Force Deflection`*` |
+| 7 | Improved Two-Weapon Fighting | Dominate Mind`*` |
+| 8 | --- | Force Barrier |
+| 9 | Improved Flurry | Knight Speed`*` + Knight Valor |
+| 10 | --- | Force Aura |
+| 11 | Class Skill: Repair | Improved Force Barrier |
+| 12 | --- | Force Shield + Stasis |
 | 13 | Weapon Focus: Lightsaber | Force Redirection`*` |
 | 14 | --- | Destroy Droid |
-| 15 | Master Two-Weapon Fighting | Master Speed`*` |
+| 15 | Master Two-Weapon Fighting | Master Speed`*` + Master Valor |
 
+<br>
 **Jedi Weapon Master**
 
 | Level | Feats | Powers |
-| --- | :--- | :--- |
-| 1 | Master Flurry | Master Valor |
-| 2 |  | Stasis Field |
-| 3 |  | Heal |
-| 4 | --- | Improved Heal |
-| 5 |  | Master Heal |
-| 6 | --- | Force Aura |
-| 7 |  | Force Shield |
-| 8 | --- | Force Armor |
-| 9 |  | Force Barrier |
-| 10 | --- | Improved Force Barrier |
-| 11 |  | Master Force Barrier |
-| 12 | --- | Revitalize |
-| 13 |  | Improved Revitalize |
-| 14 | --- | Master Revitalize |
-| 15 |  | Recommended |
+| :---: | :--- | :--- |
+| 1 | Master Flurry | Heal |
+| 2 | ** | Revitalize |
+| 3 | ** | Stasis Field |
+| 4 | ** | Improved Revitalize |
+| 5 | ** | Improved Heal |
+| 6 | ** | Force Armor |
+| 7 | ** | Master Heal |
+| 8 | ** | Master Revitalize |
+| 9-15 | ** |
+
+
+	Powers
+
+	2: 	Burst of Speed - 1
+	3: 	Affect Mind - 1
+	4: 	Valor 1
+	5: 	Stun Droid 1
+	6: 	Disable Droid 6
+	7: 	Stun 1
+	8: 	Force Deflection - 6
+	9:	Knight Speed - 9
+	10: 	Knight Valor 9
+	11: 	Dominate Mind - 6
+	12: 	Stasis 12
+	13: 	Force Redirection - 12
+	14: 	Destroy Droid 12
+	15: 	Master Speed - 15
+
+	Prestige: Weapon Master
+    1: Master Valor 15
+	2: Stasis Field 15
+	3: Heal 6
+	4: Imp Heal 12
+	5: Master Heal 18
+	6: Aura 1
+	7: Shield 6
+	8: Armor 12
+	9: Barrier 6
+	10: Imp Barrier 9
+	11: Master Barrier 15
+	12: Revit 9
+	13: Imp Revit 15
+	14: Master Revit 21
+	15: Recommended
 
 ## Equipment Plan
 One of the many special differences KOTOR 2 has compared to KOTOR 1 is that many of the drops/containers you loot are randomized. The base items listed below are all guaranteed items, but it is possible you may obtain items in your run that are more optimal to equip before getting the guaranteed items (or could possibly be better!).
